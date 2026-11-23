@@ -3,6 +3,7 @@
 A very basic HTTP/1.0 server in C.
 
 **Warning: Not for Production Use**
+
 This project is built strictly for educational purposes (I mainly wanted to learn C and also some networking along the way). It is **not production-ready** and **should not be used in a production environment**.
 Please, do not use in production.
 
